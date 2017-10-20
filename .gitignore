@@ -9,6 +9,8 @@
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/dictionaries
+.idea/*
+*.iml
 
 # Sensitive or high-churn files:
 .idea/**/dataSources/
@@ -78,3 +80,8 @@ manifest.mf
 nbproject/*
 
 # End of https://www.gitignore.io/api/jetbrains,netbeans
+.idea/compiler.xml
+.idea/copyright/
+.idea/misc.xml
+.idea/modules.xml
+.idea/tttt.iml
