@@ -44,6 +44,7 @@ public class JavaDownloadFileFromURL {
 //        start = System.currentTimeMillis();
 //        downloadUsingStream(url, "c:\\testFolder\\index_stream.xml");
 //        System.out.println("time2 : " + (System.currentTimeMillis() - start));
+//        System.out.println("time2 : " + (System.currentTimeMillis() - start));
 
 
         List<InfoXML> infListNew = ParseXML.parseXML(DIR + NEW_FILENAME);
