@@ -3,6 +3,7 @@ package dload;
 import java.util.Date;
 
 public class InfoXML {
+    //fghfjhgfjhgf
     String docName;
     String changedDate;
 
